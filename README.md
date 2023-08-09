@@ -24,6 +24,7 @@ microsoft paint artiste 🎨 → turned pre-teen piczo glittery website builder 
 ![image](https://img.shields.io/badge/Notion-bd98e0?style=for-the-badge&logo=notion&logoColor=dfe2fb)
 
 **💌 how you can reach me:**
+
 [![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=f3c6f2)](https://twitter.com/mayaisxyz)
 [![image](https://img.shields.io/badge/LinkedIn-8d90e2?style=for-the-badge&logo=linkedin&logoColor=dfe2fb)](https://linkedin.com/in/mayariaa)
 
