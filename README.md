@@ -13,7 +13,7 @@ shipped:
 [whatweights - barbell weight calculator](https://whatweights.xyz)
 
 building:
-[radicalendar](https://radicalendar.co)
+[radical](https://radicalendar.co) - a visual calendar app where you can see your time in new ways
 
 ![TS](https://img.shields.io/badge/TypeScript-8d90e2?style=for-the-badge&logo=typescript&logoColor=f3c6f2)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-bd98e0?style=for-the-badge&logo=tailwind-css&logoColor=dfe2fb)
