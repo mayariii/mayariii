@@ -2,13 +2,15 @@ hiiiii i’m maya 🌙✨
 
 a british-filipina from the UK 🇬🇧🇵🇭
 
-currently frontend engineer @ Outverse 🪐 ~ formerly HiPeople & Siemens
+senior frontend engineer @ ChaseLabs ~ formerly Outverse, HiPeople & Siemens
 
 microsoft paint artiste 🎨 → turned pre-teen piczo website builder 💅 → turned product design engineering graduate 👩🏻‍🎓 → turned rail engineer 👷🏻‍♀️ → turned person curious about code during lockdown 👀 → turned frontend engineer 👩🏻‍💻
 
 ☁️ [personal site & blog](https://mayari.io)
 
 shipped:
+
+[orbits - the personal network visualiser](https://orbits.so)
 
 [adhd directory - medication stock checker + pharmacy finder](https://adhd.directory)
 
