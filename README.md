@@ -8,20 +8,16 @@ microsoft paint artiste 🎨 → turned pre-teen piczo website builder 💅 → 
 
 ☁️ [personal site & blog](https://mayari.io)
 
-shipped:
+projects:
 
-[orbits - the personal network visualiser](https://orbits.so)
+[orbits - the personal network visualiser](https://orbits.so) - a second brain for who you know and who you meet
+
+[radical](https://radical.day) - a visual calendar app where you can see your time in new ways
+
 
 [adhd directory - medication stock checker + pharmacy finder](https://adhd.directory)
 
 [whatweights - barbell weight calculator](https://whatweights.xyz)
-
-building:
-
-[radical](https://radical.day) - a visual calendar app where you can see your time in new ways
-
-[orbits](https://orbits.so) - a second brain for who you know and who you meet
-
 
 ![TS](https://img.shields.io/badge/TypeScript-8d90e2?style=for-the-badge&logo=typescript&logoColor=f3c6f2)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-bd98e0?style=for-the-badge&logo=tailwind-css&logoColor=dfe2fb)
