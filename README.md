@@ -2,7 +2,7 @@ hiiiii i’m maya 🌙✨
 
 a british-filipina from the UK 🇬🇧🇵🇭
 
-senior frontend engineer @ ChaseLabs ~ formerly Outverse, HiPeople & Siemens
+senior frontend engineer @ [ChaseLabs](meetchase.ai) ~ formerly [Outverse](outverse.com), [HiPeople](hipeople.io) & [Siemens](siemens.com)
 
 microsoft paint artiste 🎨 → turned pre-teen piczo website builder 💅 → turned product design engineering graduate 👩🏻‍🎓 → turned rail engineer 👷🏻‍♀️ → turned person curious about code during lockdown 👀 → turned frontend engineer 👩🏻‍💻
 
@@ -26,6 +26,6 @@ projects:
 
 💌 hey@mayari.io
 
-[![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=f3c6f2)](https://twitter.com/mayaisxyz)
+[![image](https://img.shields.io/badge/X-bd98e0?style=for-the-badge&logo=x&logoColor=f3c6f2)](https://x.com/mayaisxyz)
 [![image](https://img.shields.io/badge/LinkedIn-8d90e2?style=for-the-badge&logo=linkedin&logoColor=dfe2fb)](https://linkedin.com/in/mayariaa)
 
