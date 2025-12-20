@@ -10,10 +10,11 @@ microsoft paint artiste 🎨 → turned pre-teen piczo website builder 💅 → 
 
 projects:
 
-[orbits - the personal network visualiser](https://orbits.so) - a second brain for who you know and who you meet
+[veopia](https://veopia.net) - a digital neighbourhood where you can discover cool humans
 
 [radical](https://radical.day) - a visual calendar app where you can see your time in new ways
 
+[orbits - the personal network visualiser](https://orbits.so) - a second brain for who you know and who you meet
 
 [adhd directory - medication stock checker + pharmacy finder](https://adhd.directory)
 
