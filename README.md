@@ -2,7 +2,7 @@ hiiiii i’m maya 🌙✨
 
 a british-filipina from the UK 🇬🇧🇵🇭
 
-dx engineer, community platforms @ [vercel](https://vercel.com) ▲ | prev. senior frontend engineer @ [ChaseLabs](https://meetchase.ai) ~ formerly [Outverse](https://outverse.com), [HiPeople](https://hipeople.io) & [Siemens](https://siemens.com)
+▲ dx engineer, community platforms @ [vercel](https://vercel.com) | prev. senior frontend engineer @ [ChaseLabs](https://meetchase.ai) ~ formerly [Outverse](https://outverse.com), [HiPeople](https://hipeople.io) & [Siemens](https://siemens.com)
 
 microsoft paint artiste 🎨 → turned pre-teen piczo website builder 💅 → turned product design engineering graduate 👩🏻‍🎓 → turned rail engineer 👷🏻‍♀️ → turned person curious about code during lockdown 👀 → turned frontend engineer 👩🏻‍💻
 
