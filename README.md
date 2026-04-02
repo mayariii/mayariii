@@ -27,6 +27,6 @@ projects:
 
 💌 hey@mayari.io
 
-[![image](https://img.shields.io/badge/X-bd98e0?style=for-the-badge&logo=x&logoColor=f3c6f2)](https://x.com/mayaisxyz)
+[![image](https://img.shields.io/badge/X-bd98e0?style=for-the-badge&logo=x&logoColor=f3c6f2)](https://x.com/mayvencraft)
 [![image](https://img.shields.io/badge/LinkedIn-8d90e2?style=for-the-badge&logo=linkedin&logoColor=dfe2fb)](https://linkedin.com/in/mayariaa)
 
