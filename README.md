@@ -6,7 +6,7 @@ a british-filipina from the UK 🇬🇧🇵🇭
 
 microsoft paint artiste 🎨 → turned pre-teen piczo website builder 💅 → turned product design engineering graduate 👩🏻‍🎓 → turned rail engineer 👷🏻‍♀️ → turned person curious about code during lockdown 👀 → turned frontend engineer 👩🏻‍💻
 
-☁️ [personal site & blog](https://mayari.io)
+☁️ [personal site & blog](https://mayven.computer)
 
 projects:
 
